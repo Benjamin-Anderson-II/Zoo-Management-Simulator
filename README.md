@@ -1,3 +1,3 @@
-# Crazy Eights
+# Zoo Management Simulator
 
-> This is a terminal-based single-player implementation of Crazy Eights.
+> I don't remember anything about it, but it's probably still pretty fun to play
